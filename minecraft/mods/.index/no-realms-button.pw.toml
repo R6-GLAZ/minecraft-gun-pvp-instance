@@ -1,0 +1,16 @@
+filename = 'NoRealmsButton-2.0.1-forge.jar'
+name = 'No Realms Button'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '00c4e3462c5909602e5c6fca4d03b85688d12ac3c34f114903c5bda62ea5a55c7a63547f97376fbe18fd00e3e9e7f0ba66f572b499906914a29e3bf03012597d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/AMMUyCdF/versions/Piw7UHNK/NoRealmsButton-2.0.1-forge.jar'
+
+[update.modrinth]
+mod-id = 'AMMUyCdF'
+version = 'Piw7UHNK'

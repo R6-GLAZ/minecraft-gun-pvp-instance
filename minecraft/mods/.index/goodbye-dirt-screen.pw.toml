@@ -1,0 +1,16 @@
+filename = 'GoodBye Dirt Screen-1.0.jar'
+name = 'Goodbye Dirt Screen'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c64c945b1e252e69368e78f734924ff96aa0903f3630a6c3b4713611c4d957d096241240538c20a38b8b4cacabac630c8fd89ca9da06fa22111e8b02e7b9a689'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/L4Rpxkc0/versions/x0NfbVK1/GoodBye Dirt Screen-1.0.jar'
+
+[update.modrinth]
+mod-id = 'L4Rpxkc0'
+version = 'x0NfbVK1'

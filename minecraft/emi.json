@@ -1,0 +1,14 @@
+{
+  "favorites": [],
+  "lookup_history": [
+    "item:tacz:modern_kinetic_gun{GunCurrentAmmoCount:16,GunFireMode:\"SEMI\",GunId:\"pgpre:z180\",HasBulletInBarrel:1b}"
+  ],
+  "craft_history": [],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}

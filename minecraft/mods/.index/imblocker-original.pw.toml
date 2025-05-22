@@ -1,0 +1,32 @@
+filename = 'IMBlocker-5.2.0-forge+1.17-1.20.4.jar'
+name = 'IMBlocker'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [
+    '1.17',
+    '1.17.1',
+    '1.18',
+    '1.18.1',
+    '1.18.2',
+    '1.19',
+    '1.19.1',
+    '1.19.2',
+    '1.19.3',
+    '1.19.4',
+    '1.20',
+    '1.20.1',
+    '1.20.2',
+    '1.20.3',
+    '1.20.4'
+]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f03db4326b97a9a6c3a25afc0ec9cce41f78d1a44954b4dba2ccea82e9fc151588a1f37d07ae13a1d5688f34c4abbe4ab0f98b5824d93e775649f00afac93c5c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/WMDesFsZ/versions/XtyJRPQi/IMBlocker-5.2.0-forge%2B1.17-1.20.4.jar'
+
+[update.modrinth]
+mod-id = 'WMDesFsZ'
+version = 'XtyJRPQi'
